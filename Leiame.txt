@@ -1,0 +1,4 @@
+1 - Um usuário não é um cliente
+2 - Um cliente é um usuário
+3 - Um usuário pode ver descrições de filmes
+4 - Um cliente pode alugar filmes

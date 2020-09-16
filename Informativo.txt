@@ -1,0 +1,8 @@
+Projeto N Camadas que tem por objetivo realizar compra de filmes.
+A camada de visualização é do tipo MVC.
+O Banco de Dados é SQL Server.
+A Camada de Dados é Entity Framework e sobe com o Migrations.
+
+OBS:
+É um projeto em desenvolvimento. 
+(16/09/2020).
